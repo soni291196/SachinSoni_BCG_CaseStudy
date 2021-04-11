@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BCG_Assignment_BigData.iml" filepath="$PROJECT_DIR$/.idea/modules/BCG_Assignment_BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SachinSoni_BCG_Case_Study.iml" filepath="$PROJECT_DIR$/.idea/modules/SachinSoni_BCG_Case_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SachinSoni_BCG_Case_Study-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SachinSoni_BCG_Case_Study-build.iml" />
+    </modules>
+  </component>
+</project>

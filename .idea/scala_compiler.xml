@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="SachinSoni_BCG_Case_Study,Shivang_BCG_CEO,shivang_bcg_ceo" />
+  </component>
+</project>
